@@ -1,0 +1,59 @@
+@media (max-width: 767px){
+    .banner-sec {
+        height: auto !important;
+        padding: 0;
+        display: flex;
+    }
+    .section-box{
+        height: auto;
+    }
+    .banner-content-box {
+        position: static !important;
+        padding: 22px;
+        
+    }
+    .carousel-item img {
+        height: 35vh;
+    }
+    .banner-content-box h1 {
+        font-size: 32px;
+    }
+    .banner-typology {
+        font-size: 17px;
+    }
+    .banner-price span {
+        font-size: 32px;
+    }
+    .banner-price {
+        font-size: 20px;
+    }
+    .key-highlights li {
+        line-height: 24px;
+        font-size: 16px;
+        
+    }
+    .section-padding {
+        padding: 40px 22px;
+    }
+    .section-SubTitle {
+        font-size: 25px;
+        margin: 0px !important;
+
+    }
+    .overview-leftBox p {
+        font-size: 16px;
+        line-height: 25px;
+        letter-spacing: 0.5px;
+
+    }
+    .overview-img-sec {
+        width: 100%;
+        margin: 14px 0px;
+    }
+    .overview-leftBox .btn {
+        margin-top: 0px;
+    }
+    .overview-img {
+        border: 8px solid var(--themeColor);
+    }
+}
